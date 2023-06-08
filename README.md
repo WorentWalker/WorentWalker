@@ -24,7 +24,7 @@
 - [LanguageCube](https://languagecube.ch/)(PHP / WordPress / SCSS / JQuery)
 - [ThatsME Coaching](https://thatsme-coaching.ch/)(PHP / WordPress / SCSS / ACF)
 - [WW](https://worentwalker.com/) (React / Zustand / UnoCSS)
-- [OliviaTania](https://olivia.ad-wiser.ch)
+- [OliviaTania](https://olivia.ad-wiser.ch)(PHP / WordPress / SCSS / ACF)
 
 ## See you on another side, brother 🤙
 <!--
