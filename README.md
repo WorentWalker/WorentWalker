@@ -3,9 +3,9 @@
 ### So, very quickly and point by point 📝
 
 ### About Me ✏
-- **Middle** Frontend developer 
+- **Full Stack** Developer 
 - Successfully completed about **25 projects** (by the time you're reading this, it could be 26 or 27).
-- **3.5 years** of commercial experience
+- **4.9 years** of commercial experience
 - Experienced in **design** (**Logos**, **UI/UX**, **Brandbooks**)
 - Can't work without **music**
 - Love to learn new **techniques** and **methods**
